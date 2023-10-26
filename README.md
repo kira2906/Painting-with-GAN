@@ -1,1 +1,3 @@
-# Painting-with-GAN
+<h1 align="center" id="title">Painting with Cycle GAN</h1>
+
+<p id="description">Generative Deep Learning models are a subset of deep learning models designed to generate new data samples that resemble a given dataset. These models are used in various applications such as image generation text generation and more. The key idea behind generative models is to learn the underlying distribution of the training data and then sample from this distribution to create new data samples. GANs in particular are a powerful class of generative models that consist of two neural networks namely a generator and a discriminator that are trained adversarially. The goal of the generator is to create realistic data samples while the discriminator tries to decide between real and fake samples. This adversarial training process results in the generator improving its ability to produce high-quality realistic data.</p>
