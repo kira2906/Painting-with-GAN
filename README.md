@@ -31,4 +31,3 @@ With more computing power, expanding hyperparameter tuning, experimenting with d
 ---
 *Note: This project leverages the power of GANs and neural networks to bring the art of Claude Monet into the digital world. Explore the fascinating world of generative art and image translation.*
 
-![Monet-Style Image](sample_monet_style.png)
