@@ -1,4 +1,4 @@
-# Artistic Style Transfer using Generative Adversarial Networks (GANs)
+# Artistic Style Transfer using Cycle Generative Adversarial Networks (CGANs)
 
 ## Project Overview
 
